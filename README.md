@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroBarbosaSw
-- 🌱 I’m currently learning Reactjs and NodeJS and also studying Software Engineering
+- 🌱 I’m currently learning and already applying Reactjs and NodeJS and also studying Software Engineering
 - 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub
 
 <!---
