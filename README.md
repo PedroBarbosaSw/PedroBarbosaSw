@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroBarbosaSw
-- 🌱 I’m a student of Software Engineering =D
+- 🌱 I am a student of Software Engineering =D
 - 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub
 
 <!---
