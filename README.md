@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Pedro! =D
+- 👋 Hi, I am Pedro! =D
 - 🌱 I'm a student of Software Engineering, and currently I am doing an internship in a big company of Brazil as a Web Developer, using ReactJS, NodeJS, JavaScript, HTML5, CSS3, ASP.NET MVC, C#.
 - 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub
 
