@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Pedro! =D
-- 🌱 I'm a Software Engineering student, and I am currently doing an internship in a big company of Brazil as a Web Developer, using ReactJS, NodeJS, JavaScript, HTML5, CSS3, ASP.NET MVC, C#.
+- 🌱 I'm a Software Engineering student, and currently I do an internship in a big company of Brazil as a Web Developer, using ReactJS, NodeJS, JavaScript, HTML5, CSS3, ASP.NET MVC, C#.
 - :point_left: Call of Duty Pro
 - 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub
 
