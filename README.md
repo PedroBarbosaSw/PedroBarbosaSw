@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Pedro! =D
+- 👋 Hi, I am Pedro! =D
 - 🌱 I'm a Software Engineering student, and currently I work as a Systems Develpment Analyst in a big company of Brazil, using ReactJS, NodeJS, JavaScript, HTML5, CSS3, .NET CORE and C#.
 - :point_left: Call of Duty Pro
 - 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub
