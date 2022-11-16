@@ -1,7 +1,7 @@
 Hi there ! \o/ 👋
 
 - 👋 What's up?
-- 🌱 I'm a Software Engineering, and currently I work as a Frontend Engineer in a startup that is located in Brazil, using ReactJS, JavaScript, and TypeScript.
+- 🌱 Im a Software Engineering, and currently I work as a Frontend Engineer in a startup that is located in Brazil, using ReactJS, JavaScript, and TypeScript.
 - :point_left: Call of Duty player
 - 📫 You can rdeach me on instagram or discord: @pedraubarba and Pedraub
 
