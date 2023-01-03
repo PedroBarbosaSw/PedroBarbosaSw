@@ -1,8 +1,7 @@
 Hi there ! \o/ 👋
 
-- 👋 What's up?
 - 🔫: Call of Duty player
-- 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub :D
+- 📫 @pedraubarba
 
 <!---
 PedroBarbosaSw/PedroBarbosaSw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
