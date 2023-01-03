@@ -1,7 +1,7 @@
 Hi there ! \o/ 👋
 
 - 👋 What's up?
-- :point_left: Call of Duty player
+- 🔫: Call of Duty player
 - 📫 You can reach me on instagram or discord: @pedraubarba and Pedraub :D
 
 <!---
