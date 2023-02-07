@@ -1,4 +1,4 @@
-Hi there ! \o/ 👋
+Hi there! \o/ 👋
 
 - 🔫: Call of Duty player
 - 📫 @pedraubarba
